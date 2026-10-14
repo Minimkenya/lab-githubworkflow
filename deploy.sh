@@ -1,5 +1,5 @@
 #!/bin/bash
-REPO_DIR="$HOME/lab-github-workflow"
+REPO_DIR="$HOME/lab-githubworkflow"
 LOG="$HOME/deploy.log"
 
 cd "$REPO_DIR" || exit 1
